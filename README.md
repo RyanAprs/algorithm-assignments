@@ -10,13 +10,13 @@ KELOMPOK 4
 
 
 
-# How To Use?
+# How To Run?
 
-git clone https://github.com/RyanAprs/algorithm-assignments.git 
+<pre>git clone https://github.com/RyanAprs/algorithm-assignments.gitM
 
 cd algorithm-assignments
 
-python3 KELOMPOK4.py
+python3 KELOMPOK4.py</pre>
 
 # Main Flowchart:
 
