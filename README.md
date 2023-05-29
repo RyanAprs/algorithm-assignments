@@ -2,7 +2,7 @@
 KELOMPOK 4
 
 
- # UPDATE:
+ **UPDATE:**
 
 1.Menambahkan validasi
 
@@ -10,7 +10,7 @@ KELOMPOK 4
 
 
 
-# How To Run?
+**How To Run?**
 
 <pre>git clone https://github.com/RyanAprs/algorithm-assignments.git
 
