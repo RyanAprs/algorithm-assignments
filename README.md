@@ -12,7 +12,7 @@ KELOMPOK 4
 
 # How To Run?
 
-<pre>git clone https://github.com/RyanAprs/algorithm-assignments.gitM
+<pre>git clone https://github.com/RyanAprs/algorithm-assignments.git
 
 cd algorithm-assignments
 
